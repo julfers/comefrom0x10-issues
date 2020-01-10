@@ -1,2 +1,3 @@
-# comefrom0x10-issues
-Issue tracker for Cf0x10
+https://comefrom0x10.readthedocs.io
+
+Source code: https://hg.sr.ht/~julfers/comefrom0x10
